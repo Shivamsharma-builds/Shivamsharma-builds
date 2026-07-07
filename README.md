@@ -98,4 +98,14 @@ npm install
 npm run dev        # development (watch)
 # or build + start for production:
 npm run build
-npm start 
+npm start
+
+---
+
+## GitHub stats
+![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivamSharma-Dev-DIATM&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamSharma-Dev-DIATM&layout=compact&theme=radical)
+
+---
+
+Thanks for stopping by — feel free to reach out if you'd like to collaborate or chat about interesting problems.
