@@ -83,6 +83,7 @@ My repositories show a mix of production-style apps (deployable front + back), d
 - Twitter/X: https://x.com/ShivamSharjmt23
 - Email: shivam1234sharmabro@gmail.com
 - Instagram: https://www.instagram.com/shivamsharma_jmt
+- Facebook: https://www.facebook.com/profile.php?id=61583736053439
 - Website: https://shivamsharmadiatm.netlify.app
 
 ---
