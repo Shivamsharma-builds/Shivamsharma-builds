@@ -1,4 +1,33 @@
-# ShivamSharma-Dev-DIATM
+# Hi, I'm Shivam Sharma 👋
+
+> Crafting thoughtful software and learning every day — I build reliable, user-centered solutions with a focus on clarity and maintainability.
+
+---
+
+## About me
+I'm a Full‑Stack Engineer / Data Scientist who loves turning ideas into polished products. I contribute to open source, enjoy mentoring, and prefer pragmatic, well-tested code. I focus on shipping value fast while keeping things readable and sustainable.
+
+- 🔭 Currently working on: **IEPSSOLS & Co.**
+- 🌱 I’m learning: **Artificial Intelligence & Machine learning**
+- 👯 I’m open to collaborating on: **[Types of projects you like]**
+- 💬 Ask me about: **MERN STACK**
+- 📫 Reach me: **shivamsharma123jmt@gmail.com**
+- ⚡ Fun fact: **Creative developer, building future with technology**
+
+---
+
+## Tech & Tools
+Languages, frameworks and tools I use frequently:
+
+- Languages: JavaScript/TypeScript · Python · Go · Java
+- Frontend: React · Vue · Svelte · Tailwind CSS
+- Backend: Node.js · Express · FastAPI · Spring
+- Databases: PostgreSQL · Redis · MongoDB
+- DevOps: Docker · Kubernetes · GitHub Actions · Terraform
+- Testing & Quality: Jest · PyTest · ESLint · Prettier
+
+
+---
 
 Full‑stack developer building JavaScript/TypeScript web apps and practical AI integrations. I create end‑to‑end projects (React + Node) with production-oriented tooling and deployable demos, plus smaller learning projects in C++ and static sites.
 
@@ -48,6 +77,16 @@ My repositories show a mix of production-style apps (deployable front + back), d
 
 ---
 
+## Socials
+- GitHub: https://github.com/ShivamSharma-Dev-DIATM
+- LinkedIn: https://wwrw.linkedin.com/in/shivam-sharma-diatm2023
+- Twitter/X: https://x.com/ShivamSharjmt23
+- Email: shivam1234sharmabro@gmail.com
+- Instagram: https://www.instagram.com/shivamsharma_jmt
+- Website: https://shivamsharmadiatm.netlify.app
+
+---
+
 ## How to run the main project (AI-Image-analyzer)
 
 1) Backend
@@ -59,4 +98,4 @@ npm install
 npm run dev        # development (watch)
 # or build + start for production:
 npm run build
-npm start
+npm start 
