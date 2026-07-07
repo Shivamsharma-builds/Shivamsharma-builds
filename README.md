@@ -98,7 +98,7 @@ npm install
 npm run dev        # development (watch)
 # or build + start for production:
 npm run build
-npm start
+npm start ```
 
 ---
 
