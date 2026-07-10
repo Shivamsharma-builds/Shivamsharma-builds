@@ -79,7 +79,7 @@ My repositories show a mix of production-style apps (deployable front + back), d
 
 ## Socials
 - GitHub: https://github.com/ShivamSharma-Dev-DIATM
-- LinkedIn: https://wwrw.linkedin.com/in/shivam-sharma-diatm2023
+- LinkedIn: https://www.linkedin.com/in/shivam-sharma-diatm2023
 - Twitter/X: https://x.com/ShivamSharjmt23
 - Email: shivam1234sharmabro@gmail.com
 - Instagram: https://www.instagram.com/shivamsharma_jmt
