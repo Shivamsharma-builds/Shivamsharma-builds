@@ -1,3 +1,5 @@
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQHGDmHIB3moOA/profile-displaybackgroundimage-shrink_200_800/B4DZ87SB_MJ8AU-/0/1783406010599?e=2147483647&v=beta&t=usRPPomXN7m3Kxnq8QAKXk3ORLDU50YfhooGWytAa_M" align="center" width="6000px" height="150px"/>
+
 <h1 align="center">Hi 👋, Myself SHIVAM SHARMA</h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack Learner | Building Premium Projects</h3>
 
