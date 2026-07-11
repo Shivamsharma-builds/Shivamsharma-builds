@@ -61,6 +61,124 @@
 <p>changes to be done...</p>
 
 
+## 🤔 About my work / focus
+
+I focus on:
+- Practical integrations with AI providers (OpenAI, Gemini, OpenRouter/DeepSeek).
+- Building full-stack apps with React (Vite) and Node/Express backends.
+- Deploying small production-ready demos and learning projects.
+
+My repositories show a mix of production-style apps (deployable front + back), demo sites, and academic/learning code (C++).
+
+---
+
+# 🛠 Tech Stack & Tools
+<h3>Languages, frameworks and tools I use frequently:</h3>
+
+
+📝 Languages : 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+
+
+🖥️ Frontend : 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/REACT-E34F26?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/TAILWINDCSS-1572B6?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+
+🗄️ Backend : 
+<img src="https://img.shields.io/badge/MERN-3C873A?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+
+🛢️ Databases : 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4479A1?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+♾️ DevOps : 
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+🚀 Deployment : 
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+
+🛠️ Tools : 
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
+
+## 🗂️ Pinned projects
+
+<table>
+<tr>
+<td>
+  AI-Image-analyzer (VisionLab) — AI-powered image analysis platform (Vite + React frontend, Node + Express backend).  
+  Repo: https://github.com/Shivamsharma-builds/AI-Image-analyzer
+</td>
+  
+<td>
+  Jewelry-E-Commerce — Full-stack e‑commerce platform for jewelry sales (frontend + backend).  
+  Repo: https://github.com/Shivamsharma-builds/Jewelry-E-Commerce
+</td>
+<td>
+  jewellery-frontend — Frontend for the jewelry site (deployed on Vercel).  
+  Live: https://jewellery-frontend-lyart.vercel.app  
+  Repo: https://github.com/Shivamsharma-builds/jewellery-frontend
+</td>
+
+
+
+</tr>
+
+<tr>
+<td>
+  jewellery-backend — Small Node backend for the jewelry project (deployed).  
+  Live: https://jewellery-backend-bice.vercel.app  
+  Repo: https://github.com/Shivamsharma-builds/jewellery-backend
+</td>
+  
+<td>
+  Hacktopus-Tech-Triran — JavaScript project (event/client project).  
+  Repo: https://github.com/Shivamsharma-builds/Hacktopus-Tech-Triran
+</td>
+<td>
+  portfolio — Personal portfolio static site (HTML/CSS).  
+  Repo: https://github.com/Shivamsharma-builds/portfolio
+</td>
+
+
+
+</tr>
+<tr>
+<td>
+  weather-main — Small weather demo / static HTML project.  
+  Repo: https://github.com/Shivamsharma-builds/weather-main
+
+</td>
+  
+<td>
+  Library_Management — C++ library management system (learning/project).  
+  Repo: https://github.com/Shivamsharma-builds/Library_Management
+</td>
+<td>
+  
+</td>
+
+
+
+</tr>
+
+</table>
 
 # 🌐 Connect With Me
 
@@ -110,56 +228,6 @@
 </a>
 
 </p>
-
-
-
-# 🛠 Tech Stack & Tools
-<h3>Languages, frameworks and tools I use frequently:</h3>
-
-
-📝 Languages
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-
-🖥️ Frontend
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/REACT-E34F26?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/TAILWINDCSS-1572B6?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-
-
-🗄️ Backend
-
-<img src="https://img.shields.io/badge/MERN-3C873A?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-
-🛢️ Databases
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4479A1?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-♾️ DevOps
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-🚀 Deployment
-
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-
-🛠️ Tools
-<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
 
 
