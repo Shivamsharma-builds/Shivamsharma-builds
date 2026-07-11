@@ -114,23 +114,40 @@
 
 
 # 🛠 Tech Stack & Tools
+<h3>Languages, frameworks and tools I use frequently:</h3>
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+- </> Languages
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
+- Frontend
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/REACT-E34F26?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/TAILWINDCSS-1572B6?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+
+- Backend
 
 <img src="https://img.shields.io/badge/MERN-3C873A?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+- Databases
+- DevOps
+- Testing & Quality
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white"/>
+
+
+
+
+
 
 
 
@@ -149,25 +166,25 @@
 
 </p>
 
-
+<p> changes to be made ....</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JEETJM/JEETJM/output-pacman/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JEETJM/JEETJM/output-pacman/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JEETJM/JEETJM/output-pacman/pacman-contribution-graph.svg">
 </picture>
 
-
+<p> changes to be made ....</p>
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JEETJM&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Shivamsharma-builds&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JEETJM&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivamsharma-builds&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&hide_border=true" />
 </p>
 
 
@@ -180,11 +197,11 @@
 
 <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120">
 
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="120">
+<!-- <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="120">
 
 <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120">
 
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="120">
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="120"> -->
 
 </p>
 
@@ -193,9 +210,30 @@
 
 # ✨ Quote
 
-<p align="center">
+<table>
+  <tr>
+  <td width="60%" valign="top">
+<h4><i>"Code. Build. Learn. Repeat."</i></h4>
+ Crafting thoughtful software and learning every day — I build reliable, user-centered solutions with a focus on clarity and maintainability.
+    <br>
+ <p>
+   <br><br>
+   Connect Us! For Modern and Scalable Solutions.
+ </p>
 
-<i>"Code. Build. Learn. Repeat."</i>
-  <img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWt4MDZ4ZWEzaG1sbWs2YWJpZWp4b3I5c3AxYnNwZXdxYm5hbHgzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LSKHkpRJySs5W81D7B/giphy.gif" />
+  </td>
+  <td width="60%" valign="top">
+ 
+  <img align="centre" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyM2ZodXQ0ZThxcjRxdnc5eXZwYnhyemdhcXVkcHlhcXQ5bGV4aGUzNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OLPQ6z2hlHmwFc4Hso/200w.gif" />
+ </td>
+  </tr>
+</table>
 
-</p>
+<!-- <p align="center">
+
+<h4><i>"Code. Build. Learn. Repeat."</i></h4>
+Crafting thoughtful software and learning every day — I build reliable, user-centered solutions with a focus on clarity and maintainability.
+
+  <img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyM2ZodXQ0ZThxcjRxdnc5eXZwYnhyemdhcXVkcHlhcXQ5bGV4aGUzNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OLPQ6z2hlHmwFc4Hso/200w.gif" />
+
+</p> -->
