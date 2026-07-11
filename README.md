@@ -27,8 +27,9 @@
 - 🌱 I am currently learning **Artificial Intelligence & Machine learning**
 - 🚀 I love building **modern and scalable web applications**
 - 🎯 My goal is to become a **Professional Full Stack Developer**
-- 📫 Email: **shivamsharma123jmt@gmail.com**
 - 📍 Location: **Jamtara, Jharkhand, India**
+- 📫 Email: **shivamsharma123jmt@gmail.com**
+- 👩🏻‍💻 Portfolio: **https://shivamsharmadiatm.netlify.app**
 
 <img src="https://media1.tenor.com/m/UttC4AITYR4AAAAd/full-stack-developer.gif" width ="280"/>
 <img src="https://miro.medium.com/1*d7QeSREErtMuJQ0bcptMXQ.gif" width="280"/>
@@ -40,6 +41,10 @@
 <td width="40%" align="center">
 
 <img src="https://avatars.githubusercontent.com/u/204150447?v=4" width="280"/>
+
+<h3><a href="https://shivamsharmadiatm.netlify.app/Shivam_Sharma_Resume_2026.pdf">View Resume </a></h3>
+
+
 
 <br><br>
 
@@ -120,53 +125,39 @@ My repositories show a mix of production-style apps (deployable front + back), d
 <table>
 <tr>
 <td>
-  AI-Image-analyzer (VisionLab) — AI-powered image analysis platform (Vite + React frontend, Node + Express backend).  
-  Repo: https://github.com/Shivamsharma-builds/AI-Image-analyzer
+  <h4> <a href="https://github.com/Shivamsharma-builds/AI-Image-analyzer"> AI-Image-analyzer (VisionLab) — AI-powered image analysis platform (Vite + React frontend, Node + Express backend). </a> </h4>
 </td>
   
 <td>
-  Jewelry-E-Commerce — Full-stack e‑commerce platform for jewelry sales (frontend + backend).  
-  Repo: https://github.com/Shivamsharma-builds/Jewelry-E-Commerce
+  <h4> <a href="https://github.com/Shivamsharma-builds/Jewelry-E-Commerce">  Jewelry-E-Commerce — Full-stack e‑commerce platform for jewelry sales (frontend + backend). </a> </h4> 
 </td>
 <td>
-  jewellery-frontend — Frontend for the jewelry site (deployed on Vercel).  
+  <h4> <a href="https://github.com/Shivamsharma-builds/jewellery-frontend"> jewellery-frontend — Frontend for the jewelry site (deployed on Vercel). </a> </h4> 
   Live: https://jewellery-frontend-lyart.vercel.app  
-  Repo: https://github.com/Shivamsharma-builds/jewellery-frontend
 </td>
-
-
-
 </tr>
 
 <tr>
 <td>
-  jewellery-backend — Small Node backend for the jewelry project (deployed).  
+  <h4> <a href="https://github.com/Shivamsharma-builds/jewellery-backend">  jewellery-backend — Small Node backend for the jewelry project (deployed). </a> </h4> 
   Live: https://jewellery-backend-bice.vercel.app  
-  Repo: https://github.com/Shivamsharma-builds/jewellery-backend
 </td>
   
 <td>
-  Hacktopus-Tech-Triran — JavaScript project (event/client project).  
-  Repo: https://github.com/Shivamsharma-builds/Hacktopus-Tech-Triran
+  <h4> <a href="https://github.com/Shivamsharma-builds/Hacktopus-Tech-Triran">    Hacktopus-Tech-Triran — JavaScript project (event/client project).  </a> </h4> 
+  
 </td>
 <td>
-  portfolio — Personal portfolio static site (HTML/CSS).  
-  Repo: https://github.com/Shivamsharma-builds/portfolio
+  <h4> <a href="https://github.com/Shivamsharma-builds/portfolio">  portfolio — Personal portfolio static site (HTML/CSS). 
 </td>
-
-
-
 </tr>
 <tr>
 <td>
-  weather-main — Small weather demo / static HTML project.  
-  Repo: https://github.com/Shivamsharma-builds/weather-main
-
+  <h4> <a href="https://github.com/Shivamsharma-builds/weather-main">  weather-main — Small weather demo / static HTML project.  </a> </h4> 
 </td>
   
 <td>
-  Library_Management — C++ library management system (learning/project).  
-  Repo: https://github.com/Shivamsharma-builds/Library_Management
+  <h4> <a href="https://github.com/Shivamsharma-builds/Library_Management"> Library_Management — C++ library management system (learning/project).  </a> </h4> 
 </td>
 <td>
   
