@@ -3,7 +3,7 @@
 
 <p align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile;Full+Stack+Developer;MERN+Stack+Developer;Building+Modern+Projects;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile;Currently+Learning+Artificial+Intelligence;and+Machine+Learning;Full+Stack+Developer;MERN+Stack+Developer;Building+Modern+Projects;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
@@ -50,6 +50,7 @@
 </tr>
 </table>
 
+<p>changes to be done...</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JEETJM/JEETJM/output/github-contribution-grid-snake-dark.svg">
@@ -57,52 +58,55 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JEETJM/JEETJM/output/github-contribution-grid-snake.svg">
 </picture>
 
-
+<p>changes to be done...</p>
 
 
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://github.com/JEETJM">
+<a href="https://github.com/Shivamsharma-builds">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/jm1904/">
+<a href="https://www.linkedin.com/in/shivam-sharma-diatm2023">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.youtube.com/@JM38211-JM">
+<!-- <a href="https://www.youtube.com/@JM38211-JM">
 <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
+</a> -->
 
-<a href="https://x.com/JEETJM04">
+<a href="https://x.com/ShivamSharjmt23">
 <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<a href="https://t.me/jeetu900">
+<!-- <a href="https://t.me/jeetu900">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
+</a> -->
 
-<a href="mailto:jm382118@gmail.com">
+<a href="mailto:shivamsharma123jmt@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="mailto:jm382118@outlook.com" target="_blank">
+<!-- <a href="mailto:jm382118@outlook.com" target="_blank">
 <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-</a>
+</a> -->
 
-<a href="https://wa.me/916296601904">
+<a href="https://wa.me/917004942929">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/igx_jeet/">
+<a href="https://www.instagram.com/shivamsharma_jmt">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://discord.com/channels/1442369249954758769/1442369250814722060">
+<!-- <a href="https://discord.com/channels/1442369249954758769/1442369250814722060">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a> -->
+<a href="https://www.facebook.com/profile.php?id=61583736053439">
+  <img src="https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 </p>
@@ -125,6 +129,10 @@
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white"/>
+
+
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
