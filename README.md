@@ -229,14 +229,12 @@ My repositories show a mix of production-style apps (deployable front + back), d
 
 
 
-<p> changes to be made ....</p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JEETJM/JEETJM/output-pacman/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JEETJM/JEETJM/output-pacman/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JEETJM/JEETJM/output-pacman/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivamsharma-builds/Shivamsharma-builds/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shivamsharma-builds/Shivamsharma-builds/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Shivamsharma-builds/Shivamsharma-builds/output/pacman-contribution-graph.svg">
 </picture>
 
-<p> changes to be made ....</p>
 
 # 📊 GitHub Stats
 
