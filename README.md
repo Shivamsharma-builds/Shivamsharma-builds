@@ -238,9 +238,12 @@ My repositories show a mix of production-style apps (deployable front + back), d
 
 # 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=Shivamsharma-builds&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+</p> -->
+![](https://github-readme-stats.shion.dev/api?username=shivamsharma-builds&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=shivamsharma-builds&theme=dark&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shivamsharma-builds&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📈 Contribution Graph
 
