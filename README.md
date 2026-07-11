@@ -9,7 +9,7 @@ I'm a Full‑Stack Engineer / Data Scientist who loves turning ideas into polish
 
 - 🔭 Currently working on: **IEPSSOLS & Co.**
 - 🌱 I’m learning: **Artificial Intelligence & Machine learning**
-- 👯 I’m open to collaborating on: **[Types of projects you like]**
+- 👯 I’m open to collaborating on: **Modern & interactive Websites**
 - 💬 Ask me about: **MERN STACK**
 - 📫 Reach me: **shivamsharma123jmt@gmail.com**
 - ⚡ Fun fact: **Creative developer, building future with technology**
@@ -19,11 +19,11 @@ I'm a Full‑Stack Engineer / Data Scientist who loves turning ideas into polish
 ## Tech & Tools
 Languages, frameworks and tools I use frequently:
 
-- Languages: JavaScript/TypeScript · Python · Go · Java
-- Frontend: React · Vue · Svelte · Tailwind CSS
-- Backend: Node.js · Express · FastAPI · Spring
+- Languages: JavaScript/TypeScript · Python · C/C++ · Java
+- Frontend: React · Tailwind CSS
+- Backend: Node.js · Express · FastAPI 
 - Databases: PostgreSQL · Redis · MongoDB
-- DevOps: Docker · Kubernetes · GitHub Actions · Terraform
+- DevOps: Docker · Kubernetes · GitHub Actions 
 - Testing & Quality: Jest · PyTest · ESLint · Prettier
 
 
@@ -31,7 +31,7 @@ Languages, frameworks and tools I use frequently:
 
 Full‑stack developer building JavaScript/TypeScript web apps and practical AI integrations. I create end‑to‑end projects (React + Node) with production-oriented tooling and deployable demos, plus smaller learning projects in C++ and static sites.
 
-GitHub: https://github.com/ShivamSharma-Dev-DIATM  
+GitHub: https://github.com/Shivamsharma-builds  
 Avatar: https://avatars.githubusercontent.com/u/204150447?v=4
 
 ---
@@ -39,30 +39,30 @@ Avatar: https://avatars.githubusercontent.com/u/204150447?v=4
 ## Pinned projects
 
 - AI-Image-analyzer (VisionLab) — AI-powered image analysis platform (Vite + React frontend, Node + Express backend).  
-  Repo: https://github.com/ShivamSharma-Dev-DIATM/AI-Image-analyzer
+  Repo: https://github.com/Shivamsharma-builds/AI-Image-analyzer
 
 - Jewelry-E-Commerce — Full-stack e‑commerce platform for jewelry sales (frontend + backend).  
-  Repo: https://github.com/ShivamSharma-Dev-DIATM/Jewelry-E-Commerce
+  Repo: https://github.com/Shivamsharma-builds/Jewelry-E-Commerce
 
 - jewellery-frontend — Frontend for the jewelry site (deployed on Vercel).  
   Live: https://jewellery-frontend-lyart.vercel.app  
-  Repo: https://github.com/ShivamSharma-Dev-DIATM/jewellery-frontend
+  Repo: https://github.com/Shivamsharma-builds/jewellery-frontend
 
 - jewellery-backend — Small Node backend for the jewelry project (deployed).  
   Live: https://jewellery-backend-bice.vercel.app  
-  Repo: https://github.com/ShivamSharma-Dev-DIATM/jewellery-backend
+  Repo: https://github.com/Shivamsharma-builds/jewellery-backend
 
 - Hacktopus-Tech-Triran — JavaScript project (event/client project).  
-  Repo: https://github.com/ShivamSharma-Dev-DIATM/Hacktopus-Tech-Triran
+  Repo: https://github.com/Shivamsharma-builds/Hacktopus-Tech-Triran
 
 - Library_Management — C++ library management system (learning/project).  
-  Repo: https://github.com/ShivamSharma-Dev-DIATM/Library_Management
+  Repo: https://github.com/Shivamsharma-builds/Library_Management
 
 - portfolio — Personal portfolio static site (HTML/CSS).  
-  Repo: https://github.com/ShivamSharma-Dev-DIATM/portfolio
+  Repo: https://github.com/Shivamsharma-builds/portfolio
 
 - weather-main — Small weather demo / static HTML project.  
-  Repo: https://github.com/ShivamSharma-Dev-DIATM/weather-main
+  Repo: https://github.com/Shivamsharma-builds/weather-main
 
 ---
 
@@ -78,7 +78,7 @@ My repositories show a mix of production-style apps (deployable front + back), d
 ---
 
 ## Socials
-- GitHub: https://github.com/ShivamSharma-Dev-DIATM
+- GitHub: https://github.com/Shivamsharma-builds
 - LinkedIn: https://www.linkedin.com/in/shivam-sharma-diatm2023
 - Twitter/X: https://x.com/ShivamSharjmt23
 - Email: shivam1234sharmabro@gmail.com
